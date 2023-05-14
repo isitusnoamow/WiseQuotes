@@ -8,8 +8,9 @@
   font-weight: 400;
 
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: rgb(223, 206, 187);
+  color: rgb(255, 255, 255);
+  background: rgb(246,216,165);
+  background: linear-gradient(0deg, rgba(246,216,165,1) 0%, rgb(223, 206, 187) 100%);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
